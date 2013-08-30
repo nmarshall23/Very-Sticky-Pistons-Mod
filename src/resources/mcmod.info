@@ -1,0 +1,14 @@
+[
+{
+  "modid": "verystickypistonsmod",
+  "name": "VeryStickyPistonsMod",
+  "description": "",
+  "version": "0.0.1",
+  "mcversion": "1.6.2",
+  "updateUrl": "",
+  "authors": ["Nicholas Marshall"],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
